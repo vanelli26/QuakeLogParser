@@ -7,5 +7,5 @@ import lombok.Setter;
 @Setter
 public class ClientUser {
     private String name;
-    private Long kills;
+    private int kills;
 }

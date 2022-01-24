@@ -1,10 +1,13 @@
 # Quake log parser
 
 # Tools
-* Java 17
+* Java 16
 * Springboot 2.6.3
 * Maven
 * Swagger
+* Junit
+* AssertJ
+* Lombok
 
 ## Running the application in dev mode
 

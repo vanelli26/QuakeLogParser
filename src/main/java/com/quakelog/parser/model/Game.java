@@ -8,6 +8,6 @@ import java.util.List;
 @Setter
 public class Game {
     private Long id;
-    private Long totalKills;
+    private int totalKills;
     private List<ClientUser> clientUsers;
 }
